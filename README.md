@@ -1,3 +1,9 @@
+Ricardo Arellano
+
+I had problems with the exercises 9 and 10, I didn't realize that I can use more than one loop.
+
+
+
 # Training - Javascript Functions
 
 Fork this repository to your GitHub account, then clone your GitHub copy onto your computer. Write the functions assigned below in the file `functions.js`. Use snippets to run and observe the results of your code.
