@@ -132,7 +132,7 @@ printTriangle(3);
 // displays
 // *
 // **
-// ***
+//
 
 //10. Stretch Challenge: Can you alter the printTriangle function to create a Pyramid?
 function printPyramid(length) {

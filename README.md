@@ -1,6 +1,6 @@
 Ricardo Arellano
 
-I had problems with the exercises 9 and 10, I didn't realize that I can use more than one loop.
+I had problems with the exercises 9 and 10, I didn't realize that I can use more than one loop..
 
 
 
